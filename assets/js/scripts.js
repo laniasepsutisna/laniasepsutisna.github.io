@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
 
-    Theme Name: Gavi
+    Theme Name: Lani Asep Sutisna
     Theme URI: http://
     Description: Creative Personal & Portfolio
     Author: UI-ThemeZ
